@@ -1,6 +1,6 @@
-//INTRODUCTION
 
-Visitor Management System (VSM) is built to print users information on a sticker or similar document during their visit to an organization. A user can be a visitor, vendor or employee. The system will work differently for new and old users. There will be separate custom admin side where they can view all details of user and host and edit data when necessary. 
+
+Access Tracker is built to print users information on a sticker or similar document during their visit to an organization. A user can be a visitor, vendor or employee. The system will work differently for new and old users. There will be separate custom admin side where they can view all details of user and host and edit data when necessary. 
 INCASE OF NEW USER: They will have to fill up form about their info and  take a photo then proceed to printing
 INCASE OF OLD USER: They will use their name and contact number to retrieve their previous info then proceed to printing
 
